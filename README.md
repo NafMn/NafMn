@@ -38,7 +38,7 @@
   </a>
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" />
   </a>
   <!-- Express -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
@@ -46,11 +46,11 @@
   </a>
   <!-- NestJS -->
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://d33wubrfki0l68.cloudfront.net/2a6651d7a9621f01dba843ed2faeefba9fb8390c/9bb77/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40" />
+    <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" width="40" height="40" />
   </a>
   <!-- Podman -->
   <a href="https://podman.io/" target="_blank" rel="noreferrer">
-    <img src="https://podman.io/images/podman.svg" alt="podman" width="40" height="40" />
+    <img src="https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp" alt="podman" width="40" height="40" />
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
