@@ -1,75 +1,53 @@
 <h1 align="center">Hi 👋, I'm GitNaf / MN</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafmn&label=Profile%20views&color=0e75b6&style=flat" alt="nafmn" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nafmn&label=Profile%20views&color=0e75b6&style=flat" alt="nafmn" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://kaggle.com/nanadesu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nanadesu" height="30" width="40" />
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://kaggle.com/nanadesu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://g.dev/nafmn" target="_blank">
+    <img src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="Google Developer" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,python,php,nodejs,flask,laravel,elysia,bun,react,nextjs,nestjs,tailwind,prisma,tensorflow,postgresql,redis,firebase,docker,cloudflare,aws,gcp,ubuntu,arch,vite,vitest,grafana,github" />
   </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <!-- Go -->
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" />
-  </a>
-  <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" />
-  </a>
-  <!-- NestJS -->
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" width="40" height="40" />
-  </a>
-  <!-- Podman -->
-  <a href="https://podman.io/" target="_blank" rel="noreferrer">
-    <img src="https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp" alt="podman" width="40" height="40" />
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
-  </a>
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
-  </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40" />
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
-  </a>
+</p>
+
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
+
+<!-- Barisan karakter -->
+<p align="center">
+  <img width="230" src="https://static.wikia.nocookie.net/bocchi-the-rock/images/6/67/Hitori_Gotoh_Profile.png" alt="Hitori Gotoh" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin: 5px;" />
+  <img width="230" src="https://static.wikia.nocookie.net/bocchi-the-rock/images/b/be/Nijika_Ijichi_Profile.png" alt="Nijika Ijichi" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin: 5px;" />
+  <img width="230" src="https://static.wikia.nocookie.net/bocchi-the-rock/images/1/1d/Ryo_Yamada_Profile.png" alt="Ryo Yamada" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin: 5px;" />
+  <img width="230" src="https://static.wikia.nocookie.net/bocchi-the-rock/images/7/7a/Ikuyo_Kita_Profile.png" alt="Ikuyo Kita" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); margin: 5px;" />
+</p>
+
+<!-- Gambar terakhir dengan teks 'My' -->
+<p align="center" style="margin-top: 30px;">
+  <span style="
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff4081;
+    margin-right: 10px;
+    vertical-align: middle;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.15);
+  ">
+    My
+  </span>
+  <img width="220" src="https://static.wikia.nocookie.net/kaoruhana/images/7/7c/Kaoruko_Anime.png" alt="My Alya" style="border-radius: 12px; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
+</p>
+
+<p align="center" style="font-size: 13px; color: #666;">
+  <em>“Code, create, and chill.”</em>
 </p>
