@@ -13,6 +13,9 @@
   <a href="https://g.dev/nafmn" target="_blank">
     <img src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="Google Developer" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/mohmdnafis10/" target="_blank">
+    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
